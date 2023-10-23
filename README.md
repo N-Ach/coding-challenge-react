@@ -6,7 +6,7 @@ Step 1
 Download this repo locally (don't fork it - other people will see and copy your awesome code!)
 
 
-Step 
+Step 2
 ===============================================================================================
 Follow the instructions in src/instructions/Instructions.md
 
