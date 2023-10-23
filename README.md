@@ -1,4 +1,4 @@
-The N-Ach Frontend Coding Challenge
+N-Ach Frontend Coding Challenge
 ===============================================================================================
 
 Step 1
